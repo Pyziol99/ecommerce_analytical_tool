@@ -1,4 +1,4 @@
-# ecommerce_analytical_tool
+# Logistics analytical tool for online store
 Universal analytical tool for online store for logistics management. Designed for a master's thesis project. It consists of 4 modules: 
 1. controls, 
 2. logistics indicators,
