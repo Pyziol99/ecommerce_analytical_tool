@@ -1,5 +1,9 @@
 # ecommerce_analytical_tool
-Universal analytical tool for online store for logistics management. Designed for a master's thesis project. It consists of 4 modules: control, logistics indicators, sales indicators and a forecast based on the LSTM neural network.  
+Universal analytical tool for online store for logistics management. Designed for a master's thesis project. It consists of 4 modules: 
+1. controls, 
+2. logistics indicators,
+3. sales indicators
+4. forecast based on the LSTM neural network.  
 
 The tool project involves the creation of a fully functioning dashboard for
 online stores based on the PrestaShop database. The data that is generated
