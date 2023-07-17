@@ -5,6 +5,9 @@ Universal analytical tool for online store for logistics management. Designed fo
 3. sales indicators
 4. forecast based on the LSTM neural network.  
 
+![Panel_wybrany produkt](https://github.com/Pyziol99/ecommerce_analytical_tool/assets/105854634/0d557d91-d504-4614-bde4-75a387d55d28)
+
+
 The tool project involves the creation of a fully functioning dashboard for
 online stores based on the PrestaShop database. The data that is generated
 by the online store and stored in the database are processed and presented in 
