@@ -11,8 +11,8 @@ Universal analytical tool for online store for logistics management. Designed fo
 The tool project involves the creation of a fully functioning dashboard for
 online stores based on the PrestaShop database. The data that is generated
 by the online store and stored in the database are processed and presented in 
-the form of measure of useful business information to support business decisions. 
-What is worth should be noted, this is not a tool designed exclusively for a single online store software.
+the form of indicators useful for business analitycs to support managerial decisions. 
+It's worth noting that this tool is not just for one online store software.
 The structure of the source code is divided into two parts so
 in order to easily adapt the tool under any online store database,
 without having to rebuild the entire tool.
